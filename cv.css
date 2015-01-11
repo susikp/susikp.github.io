@@ -1,9 +1,11 @@
+background-color:#FFC3A0;
+
 h1{
 	font-family: Georgia, "Times New Roman", serif;
 	font-size:22px;
 	font-weight:bold;
 	font-style:italic;
-	color:#009900;
+	text-align: center;
 }
 
 h2{
@@ -13,4 +15,15 @@ h2{
 	font-size: 18px;
 	font-weight: bold;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h3{
+	text-align: left;
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+p{
+	font-size: 12px;
 }
